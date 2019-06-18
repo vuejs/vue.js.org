@@ -1,20 +1,17 @@
 <!-- Source: https://github.com/MattIPv4/template/blob/master/README.md -->
 
 <!-- Title -->
-<h1 align="center" id="Template">
-    <!-- Text only -->
-    <!-- Template -->
-    <!-- or, Image logo -->
-    <img src="https://via.placeholder.com/500x60.png?text=Template" alt="Template" width="500"/>
+<h1 align="center" id="Vuejsorg">
+    Vue.js.org
 </h1>
 
 <!-- Tag line -->
-<h3 align="center">The template README (and other files) for my GitHub repositories.</h3>
+<h3 align="center">A simple community service website to redirect lost users from vue.js.org to vuejs.org</h3>
 
 <!-- Badges -->
 <p align="center">
-    <a href="https://shields.io/" target="_blank">
-        <img src="https://img.shields.io/badge/style-flat--square-green.svg?style=flat-square" alt="Style"/>
+    <a href="https://vuejs.org" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%80%8B-Vue.js-4fc08d.svg?logo=vue.js&style=flat-square" alt="Vue.js"/>
     </a>
     <a href="http://patreon.mattcowley.co.uk/" target="_blank">
         <img src="https://img.shields.io/badge/patreon-IPv4-blue.svg?style=flat-square" alt="Patreon"/>
@@ -29,7 +26,7 @@
 <!-- Content -->
 ## Hello
 
-This repository stores my template README file along with other useful default & template files for my GitHub repositories.
+This is just a very simple community service that will point lost users at vue.js.org to the correct website, vuejs.org.
 
 <!-- Contributing -->
 ## Contributing
@@ -62,6 +59,7 @@ Need support with this project, have found an issue or want to chat with others 
 Not found what you need here?
 * If you have an issue, please create a GitHub issue here to report the situation, include as much detail as you can!
 * _or,_ You can join our Slack workspace to discuss any issue, to get support for the project or to chat with contributors and myself:
+
 <a href="http://slack.mattcowley.co.uk/" target="_blank">
     <img src="https://img.shields.io/badge/slack-MattIPv4-blue.svg?logo=slack&logoWidth=30&logoColor=blue&style=popout-square" alt="Slack" height="60">
 </a>
